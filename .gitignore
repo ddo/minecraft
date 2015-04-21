@@ -1,0 +1,7 @@
+server/world
+ops.json
+whitelist.json
+server/banned-ips.json
+server/banned-players.json
+usercache.json
+server/logs
